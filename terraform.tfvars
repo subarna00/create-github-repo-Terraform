@@ -1,1 +1,1 @@
-token = "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"
+token = "your github token"
